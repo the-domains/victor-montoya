@@ -1,6 +1,6 @@
 name: Victor Montoya
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0
 typography_spectrum: 0.69497
 title: Victor Montoya - Graphic Designer
 cta:
@@ -22,8 +22,8 @@ color:
     - '#97aab0'
     - '#313e54'
     - '#a7a406'
-  brandStrength: 0.75
-  lightness: 0.2604131423868239
+  brandStrength: 0.0625
+  lightness: 0.5
   saturation: 0.375
-  rhythmicContrast: 0.6664795984979719
+  rhythmicContrast: 0.5
 purpose: []
